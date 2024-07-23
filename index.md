@@ -29,7 +29,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 Balancing computational expense and predictive precision, i employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination and reveals heavier atoms in the aryl halides may have a beneficial impact on the examined Pd-catalyzed Buchwald-Hartwig amination reactions.
 
+You can find detailed introductions to the relevant research findings in **Project One**, **Project Two**, and **Project Three**.
+
 ---
+
 
 ## News and Updates
 
