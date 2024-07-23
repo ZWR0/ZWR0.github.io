@@ -15,6 +15,11 @@ Balancing computational expense and predictive precision, this work employs mach
 
 ---
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://zwr0.github.io/images/project1/2.jpg" alt="Image 1" style="width: 45%;">
+  <img src="https://zwr0.github.io/images/project1/4.jpg" alt="Image 2" style="width: 45%;">
+</div>
+
 ## OpenIoT Team
 
 During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
