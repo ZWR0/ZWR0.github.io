@@ -42,9 +42,13 @@ The model architecture predominantly leverages molecular representations in SMIL
 ## Model Evaluate
 <br>
 
-<div class='second'>
-  <img src="https://zwr0.github.io/images/project2/5.jpg">
-  <img src="https://zwr0.github.io/images/project2/6.jpg">
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project2/6.jpg">
+</div>
+<br>
+
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project2/5.jpg">
 </div>
 <br>
 
