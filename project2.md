@@ -19,8 +19,8 @@ Developing a neural network architecture capable of handling various types of da
 <br>
 
 <div class='second'>
-  <img src="https://zwr0.github.io/images/project1/2.jpg">
-  <img src="https://zwr0.github.io/images/project1/3.jpg">
+  <img src="https://zwr0.github.io/images/project2/2.jpg">
+  <img src="https://zwr0.github.io/images/project2/3.jpg">
 </div>
 <br>
 
@@ -31,7 +31,7 @@ Here, SMILES (Simplified Molecular Input Line Entry System) is a notation for re
 <br>
 
 <div style="text-align: center;">
-  <img src="https://zwr0.github.io/images/project1/4.jpg">
+  <img src="https://zwr0.github.io/images/project2/4.jpg">
 </div>
 <br>
 
@@ -43,8 +43,8 @@ The model architecture predominantly leverages molecular representations in SMIL
 <br>
 
 <div class='second'>
-  <img src="https://zwr0.github.io/images/project1/5.jpg">
-  <img src="https://zwr0.github.io/images/project1/6.jpg">
+  <img src="https://zwr0.github.io/images/project2/5.jpg">
+  <img src="https://zwr0.github.io/images/project2/6.jpg">
 </div>
 <br>
 
