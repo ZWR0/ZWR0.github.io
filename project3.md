@@ -16,10 +16,10 @@ title: Project Three
 </div>
 <br>
 
-Balancing computational expense and predictive precision, this work employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination. It assesses the efficacy of product extended molecular fingerprints and select physicochemical properties as key descriptors. Insights into reaction mechanisms suggest heavier atoms in aryl halides benefit outcomes.<br>
+The Graph Neural Network (GNN) models have shown remarkable performance in various tasks within the domain of chemistry. However, a common drawback of neural network models lies in their interpretability; studies that provide explanations for these models tend to be rather superficial and lack depth. This work plans to construct a GNN model capable of accurately capturing the deep information of interactions between molecules, with the aspiration to offer more profound mechanistic insights into different chemical reactions<br>
 
 ---
-## Data Process
+## Design Molecular Interaction
 <br>
 
 <div class='second' style="display: flex;">
@@ -31,7 +31,7 @@ Balancing computational expense and predictive precision, this work employs mach
 In this context, HTE refers to High-Throughput Experimentation, a method used in chemistry and biology to rapidly conduct multiple experiments in parallel. The Buchwald-Hartwig C-N cross-coupling reaction is a chemical reaction used to form carbon-nitrogen bonds, often employed in the synthesis of pharmaceuticals and other complex organic molecules. AATSC4m could be a specific parameter or descriptor related to this type of reaction or experimental setup.<br>
 
 ---
-## Model Evaluate
+## Design GNN Model
 <br>
 
 <div class='second' style="display: flex;">
@@ -44,7 +44,7 @@ High-performance ML models are developed using processed SPP (Selected Physical 
 <br>
 
 ---
-## Potential Regularity
+## More
 <br>
 
 <div style="text-align: center;">
@@ -53,24 +53,6 @@ High-performance ML models are developed using processed SPP (Selected Physical 
 <br>
 
 Further exploration of the reaction mechanisms reveals that the presence of heavier atoms in the aryl halides may have a beneficial impact within the examined Pd-catalysed Buchwald-Hartwig amination reactions.<br>
-
----
-## Inverse Analysis
-<br>
-
-<div class='third'>
-  <img src="https://zwr0.github.io/images/project1/7.jpg">
-  <img src="https://zwr0.github.io/images/project1/8.jpg">
-  <img src="https://zwr0.github.io/images/project1/9.jpg">
-</div>
-<br>
-
-<div style="text-align: center;">
-<img src="https://zwr0.github.io/images/project1/10.jpg">
-</div>
-<br>
-
-This sentence describes a process where predictive modeling is used to forecast the outcomes (yields) of chemical reactions that are pertinent to a particular design or study, and these predictions are then used to inform and direct experimental work.<br>
 
 ---
 
