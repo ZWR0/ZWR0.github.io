@@ -15,63 +15,57 @@ Balancing computational expense and predictive precision, this work employs mach
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://zwr0.github.io/images/project1/2.jpg" alt="Image 1" style="width: 45%;">
-  <img src="https://zwr0.github.io/images/project1/4.jpg" alt="Image 2" style="width: 45%;">
+<div class='third'>
+  <img src="https://zwr0.github.io/images/project1/4.jpg" alt="Different Descriptors">
+  <img src="https://zwr0.github.io/images/project1/2.jpg" alt="The most Importance Descriptors AATSC4m_substrate">
 </div>
+<br>
 
-## OpenIoT Team
+## Data Process
 
-During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
-
-## Team News
-
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU (in Chinese)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
-- **June 2023：**Our team won a national undergraduate research training grant (about $3000).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!](https://fzuiot.site/english/)<br>
+In this context, HTE refers to High-Throughput Experimentation, a method used in chemistry and biology to rapidly conduct multiple experiments in parallel. The Buchwald-Hartwig C-N cross-coupling reaction is a chemical reaction used to form carbon-nitrogen bonds, often employed in the synthesis of pharmaceuticals and other complex organic molecules. AATSC4m could be a specific parameter or descriptor related to this type of reaction or experimental setup.<br>
 
 ---
 
-## Our Fundings
+<div class='third'>
+  <img src="https://zwr0.github.io/images/project1/5.jpg">
+  <img src="https://zwr0.github.io/images/project1/6.jpg">
+</div>
+<br>
 
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+## Model Evaluate
+
+High-performance ML models are developed using processed SPP (Selected Physical Parameters) and PEMF (Product Extended Molecular Fingerprint) parameters.
+<br>
 
 ---
 
-## Team Members
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/3.jpg">
+</div>
+<br>
 
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
+## Potential Regularity
+
+Further exploration of the reaction mechanisms reveals that the presence of heavier atoms in the aryl halides may have a beneficial impact within the examined Pd-catalysed Buchwald-Hartwig amination reactions.<br>
+
+---
+<div class='third'>
+  <img src="https://zwr0.github.io/images/project1/7.jpg">
+  <img src="https://zwr0.github.io/images/project1/8.jpg">
+  <img src="https://zwr0.github.io/images/project1/9.jpg">
+</div>
+<br>
+
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/10.jpg">
+</div>
+<br>
+
+## Inverse Analysis
+
+This sentence describes a process where predictive modeling is used to forecast the outcomes (yields) of chemical reactions that are pertinent to a particular design or study, and these predictions are then used to inform and direct experimental work.<br>
 
 ---
 
-## Some Group Photos
 
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
-</div>
-<br>
