@@ -4,35 +4,70 @@ permalink: /project3/index.html
 title: Project Three
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+## Abstrct
+<br>
 
-## Scholarships
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/1.jpg">
+</div>
+<br>
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+Balancing computational expense and predictive precision, this work employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination. It assesses the efficacy of product extended molecular fingerprints and select physicochemical properties as key descriptors. Insights into reaction mechanisms suggest heavier atoms in aryl halides benefit outcomes.<br>
 
-## Competitions (Selected)
+---
+## Data Process
+<br>
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+<div class='second' style="display: flex;">
+  <img src="https://zwr0.github.io/images/project1/4.jpg"  style="width: 25%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/2.jpg"  style="width: 25%; height: auto;">
+</div>
+<br>
 
-## Services
+In this context, HTE refers to High-Throughput Experimentation, a method used in chemistry and biology to rapidly conduct multiple experiments in parallel. The Buchwald-Hartwig C-N cross-coupling reaction is a chemical reaction used to form carbon-nitrogen bonds, often employed in the synthesis of pharmaceuticals and other complex organic molecules. AATSC4m could be a specific parameter or descriptor related to this type of reaction or experimental setup.<br>
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+---
+## Model Evaluate
+<br>
+
+<div class='second' style="display: flex;">
+  <img src="https://zwr0.github.io/images/project1/5.jpg" style="width: 25%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/6.jpg" style="width: 25%; height: auto;">
+</div>
+<br>
+
+High-performance ML models are developed using processed SPP (Selected Physical Parameters) and PEMF (Product Extended Molecular Fingerprint) parameters.
+<br>
+
+---
+## Potential Regularity
+<br>
+
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/3.jpg">
+</div>
+<br>
+
+Further exploration of the reaction mechanisms reveals that the presence of heavier atoms in the aryl halides may have a beneficial impact within the examined Pd-catalysed Buchwald-Hartwig amination reactions.<br>
+
+---
+## Inverse Analysis
+<br>
+
+<div class='third'>
+  <img src="https://zwr0.github.io/images/project1/7.jpg">
+  <img src="https://zwr0.github.io/images/project1/8.jpg">
+  <img src="https://zwr0.github.io/images/project1/9.jpg">
+</div>
+<br>
+
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/10.jpg">
+</div>
+<br>
+
+This sentence describes a process where predictive modeling is used to forecast the outcomes (yields) of chemical reactions that are pertinent to a particular design or study, and these predictions are then used to inform and direct experimental work.<br>
+
+---
+
+
