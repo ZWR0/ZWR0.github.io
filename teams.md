@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teams/index.html
+permalink: /project1/index.html
 title: Teams
 ---
 
