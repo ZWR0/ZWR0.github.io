@@ -34,6 +34,3 @@ You can find detailed introductions to the relevant research findings in **Proje
 ---
 
 
-## [Seeking a PhD position 2025](https://zwr0.github.io/file/SOP-Zhao.pdf)🔗
-
-
