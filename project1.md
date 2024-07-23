@@ -18,8 +18,8 @@ Balancing computational expense and predictive precision, this work employs mach
 <br>
 
 <div class='second' style="display: flex;">
-  <img src="https://zwr0.github.io/images/project1/4.jpg" alt="Different Descriptors" style="width: 50%; height: auto;">
-  <img src="https://zwr0.github.io/images/project1/2.jpg" alt="The most Importance Descriptors AATSC4m_substrate" style="width: 50%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/4.jpg"  style="width: 25%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/2.jpg"  style="width: 25%; height: auto;">
 </div>
 <br>
 
@@ -30,8 +30,8 @@ In this context, HTE refers to High-Throughput Experimentation, a method used in
 <br>
 
 <div class='second' style="display: flex;">
-  <img src="https://zwr0.github.io/images/project1/5.jpg" style="width: 50%; height: auto;">
-  <img src="https://zwr0.github.io/images/project1/6.jpg" style="width: 50%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/5.jpg" style="width: 25%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/6.jpg" style="width: 25%; height: auto;">
 </div>
 <br>
 
