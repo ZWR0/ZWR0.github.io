@@ -15,7 +15,10 @@ title: Project One
 </div>
 <br>
 
-Balancing computational expense and predictive precision, this work employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination. It assesses the efficacy of product extended molecular fingerprints and select physicochemical properties as key descriptors. Insights into reaction mechanisms suggest heavier atoms in aryl halides benefit outcomes.<br>
+<div style="text-align: justify;">
+  Balancing computational expense and predictive precision, this work employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination. It assesses the efficacy of product extended molecular fingerprints and select physicochemical properties as key descriptors. Insights into reaction mechanisms suggest heavier atoms in aryl halides benefit outcomes.
+</div>
+<br>
 
 ---
 ## Data Process
@@ -27,7 +30,10 @@ Balancing computational expense and predictive precision, this work employs mach
 </div>
 <br>
 
-In this context, HTE refers to High-Throughput Experimentation, a method used in chemistry and biology to rapidly conduct multiple experiments in parallel. The Buchwald-Hartwig C-N cross-coupling reaction is a chemical reaction used to form carbon-nitrogen bonds, often employed in the synthesis of pharmaceuticals and other complex organic molecules. AATSC4m could be a specific parameter or descriptor related to this type of reaction or experimental setup.<br>
+<div style="text-align: justify;">
+  In this context, HTE refers to High-Throughput Experimentation, a method used in chemistry and biology to rapidly conduct multiple experiments in parallel. The Buchwald-Hartwig C-N cross-coupling reaction is a chemical reaction used to form carbon-nitrogen bonds, often employed in the synthesis of pharmaceuticals and other complex organic molecules. AATSC4m could be a specific parameter or descriptor related to this type of reaction or experimental setup.
+</div>
+<br>
 
 ---
 ## Model Evaluate
@@ -39,7 +45,9 @@ In this context, HTE refers to High-Throughput Experimentation, a method used in
 </div>
 <br>
 
-High-performance ML models are developed using processed SPP (Selected Physical Parameters) and PEMF (Product Extended Molecular Fingerprint) parameters.
+<div style="text-align: justify;">
+  High-performance ML models are developed using processed SPP (Selected Physical Parameters) and PEMF (Product Extended Molecular Fingerprint) parameters.
+</div>
 <br>
 
 ---
@@ -51,7 +59,10 @@ High-performance ML models are developed using processed SPP (Selected Physical 
 </div>
 <br>
 
-Further exploration of the reaction mechanisms reveals that the presence of heavier atoms in the aryl halides may have a beneficial impact within the examined Pd-catalysed Buchwald-Hartwig amination reactions.<br>
+<div style="text-align: justify;">
+  Further exploration of the reaction mechanisms reveals that the presence of heavier atoms in the aryl halides may have a beneficial impact within the examined Pd-catalysed Buchwald-Hartwig amination reactions.
+</div>
+<br>
 
 ---
 ## Inverse Analysis
@@ -69,7 +80,10 @@ Further exploration of the reaction mechanisms reveals that the presence of heav
 </div>
 <br>
 
-This sentence describes a process where predictive modeling is used to forecast the outcomes (yields) of chemical reactions that are pertinent to a particular design or study, and these predictions are then used to inform and direct experimental work.<br>
+<div style="text-align: justify;">
+  This sentence describes a process where predictive modeling is used to forecast the outcomes (yields) of chemical reactions that are pertinent to a particular design or study, and these predictions are then used to inform and direct experimental work.
+</div>
+<br>
 
 ---
 
