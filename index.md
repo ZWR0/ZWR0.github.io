@@ -15,7 +15,7 @@ layout: page
 
 ## Academic Background
 
-- **Nov 2022 - June 2025:**Dalian university of technology, Chemical Engineering, supervised by [Associate Professor Li Yang](http://faculty.dlut.edu.cn/yangli/zh_CN/index.htm)🔗
+- **Nov 2022 - June 2025:**Dalian university of technology, Chemical Engineering, supervised by Associate Professor Li Yang
 - **Nov 2018 - June 2022:**Qingdao university of science and technology, Applied Chemistry
 
 ---
