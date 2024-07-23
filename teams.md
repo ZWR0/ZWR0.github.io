@@ -9,9 +9,9 @@ title: Teams
 </div>
 <br>
 
-## Motivation
+## Abstrct
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
+Balancing computational expense and predictive precision, this work employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination. It assesses the efficacy of product extended molecular fingerprints and select physicochemical properties as key descriptors. Insights into reaction mechanisms suggest heavier atoms in aryl halides benefit outcomes.<br>
 
 ---
 
