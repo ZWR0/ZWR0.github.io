@@ -42,7 +42,7 @@ title: Project Three
 
 <div style="overflow:auto;">
   <img src="https://zwr0.github.io/images/project3/4.jpg" class="floatpic" style="float:right; width:30%; height:auto; margin-right: 15px;">
-  <p>
+  <p style="text-align: justify;">
     In this scenario, the GNN model is tailored to operate on the specific structure of the reaction graph. It is trained to identify and understand the latent connections and transformations within chemical reactions by leveraging the graph's topology and node features, which represent atoms and bonds. Through this process, the GNN can capture complex interactions and patterns that are crucial for predicting reaction outcomes or designing new chemical processes.
   </p>
 </div>
