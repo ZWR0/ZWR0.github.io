@@ -5,7 +5,7 @@ title: Teams
 ---
 
 <div>
-<img src="https://zwr0.github.io/images/teams/1.jpg">
+<img src="https://zwr0.github.io/images/project1/1.jpg">
 </div>
 <br>
 
