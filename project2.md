@@ -4,43 +4,68 @@ permalink: /project2/index.html
 title: Project Two
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+## Abstrct
+<br>
 
-## Conference Paper
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/1.jpg">
+</div>
+<br>
 
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
-
----
-
-## Thesis (FYP)
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
+Balancing computational expense and predictive precision, this work employs machine learning to predict yields in Pd-catalyzed Buchwald-Hartwig amination. It assesses the efficacy of product extended molecular fingerprints and select physicochemical properties as key descriptors. Insights into reaction mechanisms suggest heavier atoms in aryl halides benefit outcomes.<br>
 
 ---
+## Data Process
+<br>
 
-## Manuscript
+<div class='second' style="display: flex;">
+  <img src="https://zwr0.github.io/images/project1/4.jpg"  style="width: 25%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/2.jpg"  style="width: 25%; height: auto;">
+</div>
+<br>
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
+In this context, HTE refers to High-Throughput Experimentation, a method used in chemistry and biology to rapidly conduct multiple experiments in parallel. The Buchwald-Hartwig C-N cross-coupling reaction is a chemical reaction used to form carbon-nitrogen bonds, often employed in the synthesis of pharmaceuticals and other complex organic molecules. AATSC4m could be a specific parameter or descriptor related to this type of reaction or experimental setup.<br>
 
 ---
+## Model Evaluate
+<br>
 
-## Early Project
+<div class='second' style="display: flex;">
+  <img src="https://zwr0.github.io/images/project1/5.jpg" style="width: 25%; height: auto;">
+  <img src="https://zwr0.github.io/images/project1/6.jpg" style="width: 25%; height: auto;">
+</div>
+<br>
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
+High-performance ML models are developed using processed SPP (Selected Physical Parameters) and PEMF (Product Extended Molecular Fingerprint) parameters.
+<br>
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+---
+## Potential Regularity
+<br>
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/3.jpg">
+</div>
+<br>
 
-  <br>
+Further exploration of the reaction mechanisms reveals that the presence of heavier atoms in the aryl halides may have a beneficial impact within the examined Pd-catalysed Buchwald-Hartwig amination reactions.<br>
+
+---
+## Inverse Analysis
+<br>
+
+<div class='third'>
+  <img src="https://zwr0.github.io/images/project1/7.jpg">
+  <img src="https://zwr0.github.io/images/project1/8.jpg">
+  <img src="https://zwr0.github.io/images/project1/9.jpg">
+</div>
+<br>
+
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project1/10.jpg">
+</div>
+<br>
+
+This sentence describes a process where predictive modeling is used to forecast the outcomes (yields) of chemical reactions that are pertinent to a particular design or study, and these predictions are then used to inform and direct experimental work.<br>
+
+---
