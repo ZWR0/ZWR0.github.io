@@ -6,7 +6,6 @@ title: Project One
 ---
 # Status: Completely Accepted
 ---
-<br>
 
 ## Abstrct
 <br>
