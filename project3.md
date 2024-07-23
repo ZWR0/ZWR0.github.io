@@ -3,6 +3,10 @@ layout: page
 permalink: /project3/index.html
 title: Project Three
 ---
+---
+# Status: Achieved preliminary results
+---
+<br>
 
 ## Abstrct
 <br>
