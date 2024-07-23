@@ -57,6 +57,11 @@ title: Project Three
 </div>
 <br>
 
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/project3/6.jpg">
+</div>
+<br>
+
 <div style="text-align: justify;">
  Google Colab (short for Collaboratory) is a cloud-based development environment provided by Google that includes support for machine learning libraries such as TensorFlow and PyTorch. It allows users to write and run Python code through notebooks, and it also provides access to powerful computing resources like GPUs and TPUs, which can significantly speed up the training process of machine learning models.
 </div>
