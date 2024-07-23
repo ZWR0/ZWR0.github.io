@@ -41,11 +41,11 @@ links:
   - title: Project One
     url: /project1/
   - title: Project Two
-    url: /publications/
+    url: /project2/
   - title: Project Three
-    url: /awards/
+    url: /project3/
   - title: Materials
-    url: /hobbies/
+    url: /materials/
   - title: Blogs
     url: /blogs/
 
