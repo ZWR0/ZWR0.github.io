@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese ✨
+# Weiren Zhao ✨
 
 Here is **Weiren Zhao(赵伟任)**. This is my personal web repo. 
 
