@@ -16,7 +16,7 @@ title: Project Three
 </div>
 <br>
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
   The Graph Neural Network (GNN) models have shown remarkable performance in various tasks within the domain of chemistry. However, a common drawback of neural network models lies in their interpretability; studies that provide explanations for these models tend to be rather superficial and lack depth. This work plans to construct a GNN model capable of accurately capturing the deep information of interactions between molecules, with the aspiration to offer more profound mechanistic insights into different chemical reactions.
 </div>
 <br>
@@ -31,7 +31,7 @@ title: Project Three
 </div>
 <br>
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
   A reaction graph represents a visual or abstract structure that captures the relationships and transformations between reactants, products, and intermediates in a chemical reaction. This graphical representation allows machine learning models to better understand and predict the mechanisms and outcomes of chemical reactions by encoding the connectivity and changes at the molecular level.
 </div>
 <br>
@@ -57,7 +57,7 @@ title: Project Three
 </div>
 <br>
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
  Google Colab (short for Collaboratory) is a cloud-based development environment provided by Google that includes support for machine learning libraries such as TensorFlow and PyTorch. It allows users to write and run Python code through notebooks, and it also provides access to powerful computing resources like GPUs and TPUs, which can significantly speed up the training process of machine learning models.
 </div>
 <br>
