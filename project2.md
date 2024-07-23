@@ -4,6 +4,11 @@ permalink: /project2/index.html
 title: Project Two
 ---
 
+---
+# Status: Writing for Submission
+---
+<br>
+
 ## Abstrct
 <br>
 
