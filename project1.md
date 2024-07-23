@@ -4,7 +4,7 @@ permalink: /project1/index.html
 title: Project One
 ---
 ---
-# Status: Completelt Accepted
+# Status: Completely Accepted
 ---
 <br>
 
