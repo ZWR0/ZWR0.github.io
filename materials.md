@@ -19,7 +19,7 @@ title: Materials
 ## [My Article](https://zwr0.github.io/images/materials/Article.pdf)🔗
 <br>
 
-## Language Level
+## [Language Level](https://zwr0.github.io/images/materials/CET6_Zhao.pdf)🔗
 <br>
 
 <div style="text-align: center;">
