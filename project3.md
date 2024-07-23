@@ -49,12 +49,21 @@ title: Project Three
 <br>
 
 ---
-## More
+## Train Model
 <br>
 
 <div style="text-align: center;">
 <img src="https://zwr0.github.io/images/project3/5.jpg">
 </div>
+<br>
+
+<div style="text-align: justify;">
+ Google Colab (short for Collaboratory) is a cloud-based development environment provided by Google that includes support for machine learning libraries such as TensorFlow and PyTorch. It allows users to write and run Python code through notebooks, and it also provides access to powerful computing resources like GPUs and TPUs, which can significantly speed up the training process of machine learning models.
+</div>
+<br>
+
+---
+## Model Explain
 <br>
 
 <div style="text-align: center;">
@@ -63,7 +72,7 @@ title: Project Three
 <br>
 
 <div style="text-align: justify;">
- Google Colab (short for Collaboratory) is a cloud-based development environment provided by Google that includes support for machine learning libraries such as TensorFlow and PyTorch. It allows users to write and run Python code through notebooks, and it also provides access to powerful computing resources like GPUs and TPUs, which can significantly speed up the training process of machine learning models.
+  A Graph Neural Network (GNN) is a type of neural network designed to operate on graph-structured data, where nodes can correspond to different entities such as atoms or molecules, and edges represent interactions or bonds between these entities. By analyzing the GNN model from a nodal perspective, one can gain insights into how individual components (nodes) contribute to the overall reaction mechanism in chemical processes.
 </div>
 <br>
 
