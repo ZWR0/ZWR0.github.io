@@ -4,6 +4,16 @@ permalink: /materials/index.html
 title: Materials
 ---
 
+---
+## Contact Me
+### **WeChat:** 13980339144
+<div style="text-align: center;">
+<img src="https://zwr0.github.io/images/materials/2.jpg">
+</div>
+
+---
+<br>
+
 ## [My CV](https://zwr0.github.io/images/materials/CV-Zhao.pdf)🔗
 <br>
 
